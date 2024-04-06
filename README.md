@@ -59,8 +59,8 @@ Parameters:
 
 Options:
   -r, --registry     set an alternative registry url (default: as configured)
-  -d, --development  show development dependencies   (default: true)
-  -o, --optional     show optional dependencies      (default: true)
+  -d, --development  show development dependencies   (default: false)
+  -o, --optional     show optional dependencies      (default: false)
   -p, --peer         show peer dependencies          (default: false)
   -l, --license      show license information        (default: false)
   -f, --flatten      print flat list of dependencies (default: false)
